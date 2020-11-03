@@ -1,0 +1,9 @@
+Credentials cache: API:09946D99-F002-4C6A-8F11-AAE772F377B9
+        Principal: gamartin@42LISBOA.COM
+
+  Issued                Expires               Principal
+Oct 26 09:07:41 2020  Oct 26 19:07:36 2020  krbtgt/42LISBOA.COM@42LISBOA.COM
+gamartin@c1r3s1 ~ % klist -la
+    Name                    Cache name                                 Expires
+* gamartin@42LISBOA.COM   API:09946D99-F002-4C6A-8F11-AAE772F377B9   Oct 26 19:07:36 2020
+  gamartin@42LISBOA.COM   API:054C8D2D-8D11-40E0-BB50-3B2919326037   Oct 26 18:57:11 2020
